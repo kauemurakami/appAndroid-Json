@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Gerênciamento de Cursos</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Aplicativo de Cursos</string>
+    <string name="nav_header_subtitle">Q-Cursos Networks</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="texto_desenvolvedor">Me chamo Hugo Vasconcelos, sou desenvolvedor
+    mobile há 5 anos, também desenvolvo para desktop e web, tenho criado mais de
+    50 aplicativos mobile e vários dele ministrado passo a passo em meus cursos
+    e treinamentos pela Q-Cursos Networks e vários outos portais na web, também
+    ministro cursos e treinamentos em mais de 15 áreas diferentes.</string>
+
+
+</resources>
